@@ -2,7 +2,7 @@
 
 Hey TomTom Developers!  I'm adding a route planner for TRUCKS! So one can add rest stops along the way
 
-The video of this tutorial is here: https://youtu.be/w7f969zWbVE
+The video of this tutorial is here: https://youtu.be/Wrnd6ws6tdE
 
 oh.. and remember to get an FREE API KEY in our developer portal here : https://bit.ly/38nbvLX
 
